@@ -1,3 +1,3 @@
 # Here is My demoPort Link
 
-<b> https://afnantech.netlify.app/ </b>
+<a target="_blank"> <b> https://afnantech.netlify.app/ </b><a/>
